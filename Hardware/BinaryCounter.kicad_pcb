@@ -81,7 +81,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerber/")
+			(outputdirectory "../Gerber&Drill/")
 		)
 	)
 	(net 0 "")
@@ -893,6 +893,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/ea4d5fbb7c8fc6a94362763d65bf844b92445756_seeed_studio_xiao_rp2040_v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -2276,6 +2287,17 @@
 			(uuid "fbf24fce-4cd4-4955-902e-a39c09c83239")
 		)
 		(embedded_fonts no)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/L08R5000Q1.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "BinaryCounter-footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -2595,6 +2617,17 @@
 			(uuid "ccbc46a2-2860-4e74-b278-649a16ebdd96")
 		)
 		(embedded_fonts no)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/L08R5000Q1.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "BinaryCounter-footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -2914,6 +2947,17 @@
 			(uuid "0f1f53d1-12e0-44cf-b6f3-deb72c274aa1")
 		)
 		(embedded_fonts no)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/L08R5000Q1.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "BinaryCounter-footprints:128x64OLED"
 		(layer "F.Cu")
@@ -3165,6 +3209,17 @@
 			(uuid "98b9690b-0681-4bed-a387-4133885075ae")
 		)
 		(embedded_fonts no)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/OLED-128x64-0.96.step"
+			(offset
+				(xyz 34.5 3.5 3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
@@ -3647,6 +3702,17 @@
 			(uuid "356e22d0-29b5-4ec5-b02b-ecd0ac405260")
 		)
 		(embedded_fonts no)
+		(model "/Users/mac/Desktop/PCB/Pathfinder/Resources/BinaryCounter-3D Models/L08R5000Q1.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
