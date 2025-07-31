@@ -16,16 +16,20 @@ A simple hardware built using KiCad and C++ (Arduino code), designed to work as 
 ---
 ## Screenshots
 
-**Schematics**
-![Schematics](<Images/Schematic.png>)
+### Schematic
 
-**PCB**
+![Schematic](<Images/Schematic.png>)
+
+### PCB
+
 ![PCB](<Images/PCB.png>)
 
-**3D Front View**
+### 3D Front View
+
 ![3D-Front](<Images/3DFront.png>)
 
-**3D Back View**
+### 3D Back View
+
 ![3D-Back](<Images/3DBack.png>)
 ---
 
