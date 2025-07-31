@@ -4,7 +4,7 @@
 
 
 # BinaryCounter
-A simple hardware built using KiCad and C++ (Arduino code), designed to work as a counter with keys, 0.96" OLED screen, LEDs, rotary encoder all controlled by a XIAO-RP2040-DIP microcontroller.
+A simple hardware built using KiCad and C++ (Arduino code), designed to work as a counter with keys, 0.96" OLED screen, LEDs all controlled by a XIAO-RP2040-DIP microcontroller.
 
 
 ## Features
